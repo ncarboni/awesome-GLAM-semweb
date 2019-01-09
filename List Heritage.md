@@ -1,6 +1,4 @@
-
-
-## Introduction
+## Semantic Web List for Digital (Humanities | Heritage | Art History)
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.  
 
