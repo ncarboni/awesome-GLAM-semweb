@@ -1,8 +1,8 @@
-## Semantic Web List for Digital (Humanities | Heritage | Art History)
+## GLAM flavoured Semantic Web List 
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.  
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) specifically targeted for Digital Humanities and its various flavours (Digital Art History, Digital (Cultural?) Heritage, Cultural Computing, etc.). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) will be reported also here.  
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) will be reported also here.  
 
 The list is public and contributions are welcome.  
 
