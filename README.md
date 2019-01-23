@@ -29,6 +29,7 @@ The list is public and contributions are welcome.
 	- [Europeana Data Model](#europeana-data-model)
 	- [Dublin Core](#dublin-core)
 	- [Open Archives Initiative Object Reuse and Exchange \(OAI-ORE\)](#open-archives-initiative-object-reuse-and-exchange-oai-ore)
+	- [Encoded Archival Context for Corporate Bodies, Persons, and Families \(EAC-CPF\)](#encoded-archival-context-for-corporate-bodies-persons-and-families-eac-cpf)
 	- [ICA Expert Group on Archival Description \(EGAD\)](#ica-expert-group-on-archival-description-egad)
 	- [Metadata Object Description Schema \(MADS\)](#metadata-object-description-schema-mads)
 	- [BIBFRAME \(Bibliographic Framework Initiative\)](#bibframe-bibliographic-framework-initiative)
@@ -62,6 +63,7 @@ The list is public and contributions are welcome.
 	- [VIM](#vim)
 	- [Emacs](#emacs)
 	- [IntelliJ](#intellij)
+- [IIIF](#iiif)
 - [Misc](#misc)
 	- [Data Management](#data-management)
 	- [Prefix](#prefix)
@@ -207,6 +209,9 @@ The list is public and contributions are welcome.
 
 - [Vocabulary](http://www.openarchives.org/ore/1.0/vocabulary)
 
+### Encoded Archival Context for Corporate Bodies, Persons, and Families (EAC-CPF)
+
+- [EAC-CPF Description Ontology for Linked Archival Data](https://labs.regesta.com/progettoReload/wp-content/uploads/2013/10/eac-cpf.html)
 
 ### ICA Expert Group on Archival Description (EGAD)
 
