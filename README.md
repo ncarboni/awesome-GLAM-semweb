@@ -33,6 +33,8 @@ The list is public and contributions are welcome.
 	- [ICA Expert Group on Archival Description \(EGAD\)](#ica-expert-group-on-archival-description-egad)
 	- [Metadata Object Description Schema \(MADS\)](#metadata-object-description-schema-mads)
 	- [BIBFRAME \(Bibliographic Framework Initiative\)](#bibframe-bibliographic-framework-initiative)
+	- [BIBO \(Bibliographic Ontology Specification\)](#bibo-bibliographic-ontology-specification)
+	- [Resource Description Access Ontology](#resource-description-access-ontology)
 	- [PREMIS](#premis)
 	- [World Wide Web Consortium \(W3C\)](#world-wide-web-consortium-w3c)
 	- [Others](#others)
@@ -227,6 +229,14 @@ The list is public and contributions are welcome.
 - [Model Overview](https://www.loc.gov/bibframe/docs/bibframe2-model.html)
 - [Vocabulary](http://id.loc.gov/ontologies/bibframe.html)
 
+### BIBO (Bibliographic Ontology Specification)
+
+- [Vocabulary](http://bibliontology.com)
+
+### Resource Description Access Ontology
+
+- [RDA Registry](http://www.rdaregistry.info/rgAbout/rdaont/)
+
 ### PREMIS
 
 - [Vocabulary](http://id.loc.gov/ontologies/premis-3-0-0.html) of digital preservation metadata
@@ -246,13 +256,15 @@ The list is public and contributions are welcome.
 
 ### Others
 
-- [foaf](http://www.foaf-project.org/) - Friend of a Friend (FOAF) ontology.
-- [obo-relations](http://obofoundry.org/ontology/ro.html) - Relation Ontology. Relationship types shared across multiple ontologies.
+- [foaf](http://www.foaf-project.org/) - Friend of a Friend (FOAF) ontology.  
+- [obo-relations](http://obofoundry.org/ontology/ro.html) - Relation Ontology. Relationship types shared across multiple ontologies.  
+- [RELATIONSHIP](http://vocab.org/relationship/) - Vocabulary for describing relationships between people.
+- [BIO](http://vocab.org/bio/) - Vocabulary for describing biographical information.  
 - [schema.org](https://schema.org/docs/datamodel.html) - Structured data on the Internet (Google, Microsoft, Yahoo and Yandex).
-- [SPAR](http://www.sparontologies.net) - Semantic Publishing and Referencing Ontologies.
-- GeoSPARQL ([DOCS](https://www.opengeospatial.org/standards/geosparql)|[RDF](www.opengis.net/ont/geosparql))
-- [Creative Commons Rights Expression](https://creativecommons.org/ns)
-- [QUDT](http://www.qudt.org) Quantities, Units, Dimensions and Types Ontologies and Vocabularies
+- [SPAR](http://www.sparontologies.net) - Semantic Publishing and Referencing Ontologies.  
+- GeoSPARQL ([DOCS](https://www.opengeospatial.org/standards/geosparql)|[RDF](www.opengis.net/ont/geosparql))  
+- [Creative Commons Rights Expression](https://creativecommons.org/ns)  
+- [QUDT](http://www.qudt.org) Quantities, Units, Dimensions and Types Ontologies and Vocabularies  
 - [Ontology of units of measure](http://www.ontology-of-units-of-measure.org) Dimensions and measurements ontology
 
 ### Where to find ontologies 
