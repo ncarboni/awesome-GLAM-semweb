@@ -427,7 +427,7 @@ OS - OpenSource
 
 ### TextMate
 
-[sparql/turtle extension](https://github.com/peta/turtle.tmbundle)
+- [sparql/turtle extension](https://github.com/peta/turtle.tmbundle)
 
 ### Sublime Text
 
