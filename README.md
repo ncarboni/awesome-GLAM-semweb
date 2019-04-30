@@ -432,6 +432,7 @@ OS - OpenSource
 ### Sublime Text
 
 - [Turtle and SPARQL syntax highlighter](https://github.com/abcoates/sublime-text-turtle-sparql)
+- [SPARQL 1.1, Turtle, TriG, N-Triples, N-Quads and Notation3 syntax highlighter](https://github.com/blake-regalia/linked-data.syntaxes)
 
 ### BBedit
 
