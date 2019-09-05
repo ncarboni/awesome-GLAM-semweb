@@ -65,9 +65,10 @@ The list is public and contributions are welcome.
 	- [VIM](#vim)
 	- [Emacs](#emacs)
 	- [IntelliJ](#intellij)
+- [Data Management](#data-management)
+	- [OpenRefine Reconciliation services](#openrefine-reconciliation-services)
 - [IIIF](#iiif)
 - [Misc](#misc)
-	- [Data Management](#data-management)
 	- [Prefix](#prefix)
 	- [Ontology](#ontology)
 		- [Documentation](#documentation)
@@ -452,16 +453,26 @@ OS - OpenSource
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
 
+## Data Management
+
+- [Timbuctoo](https://timbuctoo.huygens.knaw.nl) Data management, enrichment and sharing
+- [Openrefine](http://openrefine.org) Data cleaning and normalisation
+
+### OpenRefine Reconciliation services
+
+- [VIAF](https://viaf.org) & [ORCID](https://orcid.org) — OpenRefine reconciliation services for VIAF, ORCID, and Open Library available in [Github](https://github.com/codeforkjeff/conciliator). To make it work, it is necessary the launch a jar file for its use. After that the endpoint is available at: [http://localhost:8080/reconcile/viaf].  
+- [Geonames](http://www.geonames.org) —  The OpenRefine reconciliation services is available in [GitHub](https://github.com/cmharlow/geonames-reconcile). To make it work, it is necessary to launch a python script. After that the endpoint is available at: [http://0.0.0.0:5000/reconcile](http://0.0.0.0:5000/reconcile).  
+- [GND](https://lobid.org/gnd) — Reconciliation service offered by [lob-id](https://lobid.org). Endpoint for OpenRefine: [https://lobid.org/gnd/reconcile](http://services.getty.edu/vocab/reconcile/). Possible to "Add columns from reconciled values".  
+- [SNAC](http://snaccooperative.org)— Social Networks and Archival Context. Endpoint for OpenRefine: [http://openrefine.snaccooperative.org](http://services.getty.edu/vocab/reconcile/)- [Nomisma](http://nomisma.org) — Nomisma provide stable digital representations of numismatic concepts. Endpoint for OpenRefine: [http://nomisma.org/apis/reconcile](http://nomisma.org/apis/reconcile).   
+- [OpenCorporate](https://opencorporates.com/) — Open database of companies. Endpoint for OpenRefine: [https://opencorporates.com/reconcile](https://opencorporates.com/reconcile).  
+
+
 ## IIIF
 
 TODO
 
 ## Misc
 
-### Data Management
-
-- [Timbuctoo](https://timbuctoo.huygens.knaw.nl) Data management, enrichment and sharing
-- [Openrefine](http://openrefine.org) Data cleaning and normalisation
 
 ### Prefix 
 
