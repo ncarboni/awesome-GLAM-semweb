@@ -23,7 +23,7 @@ The list is public and contributions are welcome.
 	- [CIDOC-CRM](#cidoc-crm)
 		- [CIDOC-CRM Official extensions](#cidoc-crm-official-extensions)
 		- [CIDOC-CRM Unofficial extensions](#cidoc-crm-unofficial-extensions)
-		- [CIDOC-CRM Tutorial](#cidoc-crm-tutorial)
+		- [CIDOC-CRM/FRBRoo Tutorials](#cidoc-crmfrbroo-tutorials)
 		- [CIDOC-CRM Modelling examples and documentation](#cidoc-crm-modelling-examples-and-documentation)
 	- [Gemeinsame Normdatei \(GND\)](#gemeinsame-normdatei-gnd)
 	- [Europeana Data Model](#europeana-data-model)
@@ -184,10 +184,11 @@ The list is public and contributions are welcome.
 - [VIR](http://w3id.org/vir): Model for visual and iconographical representations
 - [DOREMUS](http://data.doremus.org/ontology/): Model for describing musical performances and recordings
 
-#### CIDOC-CRM Tutorial
+#### CIDOC-CRM/FRBRoo Tutorials
 
 - [Long Video Tutorial by Stephen Staad](http://old.cidoc-crm.org/cidoc_tutorial/index.html) - Require Flash
 - [Short Video Tutorial by George Bruseker](https://youtu.be/lVQFciW7V4I)
+- [FRBRoo Tutorial](http://83.212.168.219/FRBR_Tutorial/)
 
 #### CIDOC-CRM Modelling examples and documentation
 
