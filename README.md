@@ -312,6 +312,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 - [CERL Thesaurus](https://data.cerl.org/thesaurus/) for book heritage
 - [Library Congress Subject Headings](http://id.loc.gov/authorities/subjects.html)
 - [Thesaurus Graphical Materials](http://id.loc.gov/vocabulary/graphicMaterials.html)
+- [Nomenclature for Museum Cataloging](https://www.nomenclature.info) + [help LOD](https://www.nomenclature.info/integration.app)
 
 ### France
 
