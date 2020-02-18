@@ -467,11 +467,12 @@ OS - OpenSource
 - [GND](https://lobid.org/gnd) — Reconciliation service offered by [lob-id](https://lobid.org). Endpoint for OpenRefine: [https://lobid.org/gnd/reconcile](http://services.getty.edu/vocab/reconcile/). Possible to "Add columns from reconciled values".  
 - [SNAC](http://snaccooperative.org)— Social Networks and Archival Context. Endpoint for OpenRefine: [http://openrefine.snaccooperative.org](http://services.getty.edu/vocab/reconcile/)- [Nomisma](http://nomisma.org) — Nomisma provide stable digital representations of numismatic concepts. Endpoint for OpenRefine: [http://nomisma.org/apis/reconcile](http://nomisma.org/apis/reconcile).   
 - [OpenCorporate](https://opencorporates.com/) — Open database of companies. Endpoint for OpenRefine: [https://opencorporates.com/reconcile](https://opencorporates.com/reconcile).  
+- [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/obtain/openrefine.html) - OpenRefine reconciliation services for the Getty Vocabularies (ULAN, TGN, AAT)
 
 
 ## IIIF
 
-TODO
+- [International Image Interoperability Framework](https://iiif.io/)
 
 ## Misc
 
