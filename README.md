@@ -397,7 +397,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 $ - Proprietary  
 OS - OpenSource  
 
-- [Metaphacts](http://metaphacts.com) - (OS)($) platform to to use, interact and build up entry point for RDF Stores.
+- [Researchspace](https://www.researchspace.org) - (OS)($) platform to to use, interact and build up entry point for RDF Stores. Specifically target to GLAM researchers and institutions.
 - [WissKI](http://wiss-ki.eu) - (OS) Drupal-based platform to interact and build entry point for RDF Stores.
 
 
