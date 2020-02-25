@@ -359,12 +359,12 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ### Conferences 
 
-- [International Semantic Web Conference (ISWC 2019)](http://iswc2019.semanticweb.org)
-- [European Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org)
-- [CIDOC - ICOM International Committee for Documentation](http://icom-kyoto-2019.org)
+- [International Semantic Web Conference (ISWC 2019)](http://iswc2020.semanticweb.org)
+- [European Semantic Web Conference (ESWC 2019)](https://2020.eswc-conferences.org)
+- [CIDOC - ICOM International Committee for Documentation](http://network.icom.museum/cidoc/)
 - [Workshop on Humanities in the Semantic Web (WHiSe)](http://whise.kmi.open.ac.uk)
 - [Semantic Web in Libraries](http://swib.org)
-- [LODLAM Summit](#)
+- [LODLAM Summit](https://lod-lam.net/)
 
 ### Conference not specifically on Semantic Web, but with strong ties to the community
 
@@ -373,6 +373,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 - [Code4Lib](https://code4lib.org/conference/)
 - [European Library Automation Group](https://elag.org/)
 - [Digital Heritage](#)
+- [Europeana](#)
 
 
 ### Discussion groups
@@ -381,6 +382,9 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 - [LODLAM - Linked Open Data in Libraries, Archives & Museum Community Group](https://groups.google.com/forum/#!forum/lod-lam)
 - [w3c semantic web Mailing List](https://lists.w3.org/Archives/Public/semantic-web/)
 - [w3c Linked Open Data Mailing List](https://lists.w3.org/Archives/Public/public-lod/)
+- [GLAM–Wiki initiative](https://en.wikipedia.org/wiki/Wikipedia:GLAM)
+- [Wikidata GLAM](https://www.wikidata.org/wiki/Wikidata:GLAM)
+- [GLAM Wiki Facebook Group](https://www.facebook.com/groups/GLAMWikiGlobal/)
 
 ### Academic Journals
 
@@ -467,7 +471,11 @@ OS - OpenSource
 - [GND](https://lobid.org/gnd) — Reconciliation service offered by [lob-id](https://lobid.org). Endpoint for OpenRefine: [https://lobid.org/gnd/reconcile](http://services.getty.edu/vocab/reconcile/). Possible to "Add columns from reconciled values".  
 - [SNAC](http://snaccooperative.org)— Social Networks and Archival Context. Endpoint for OpenRefine: [http://openrefine.snaccooperative.org](http://services.getty.edu/vocab/reconcile/)- [Nomisma](http://nomisma.org) — Nomisma provide stable digital representations of numismatic concepts. Endpoint for OpenRefine: [http://nomisma.org/apis/reconcile](http://nomisma.org/apis/reconcile).   
 - [OpenCorporate](https://opencorporates.com/) — Open database of companies. Endpoint for OpenRefine: [https://opencorporates.com/reconcile](https://opencorporates.com/reconcile).  
-- [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/obtain/openrefine.html) - OpenRefine reconciliation services for the Getty Vocabularies (ULAN, TGN, AAT)
+- [Getty Research Institute](https://www.getty.edu/research/tools/vocabularies/obtain/openrefine.html) - OpenRefine reconciliation services for the Getty Vocabularies (ULAN, TGN, AAT).
+- [Nomisma](http://nomisma.org) - OpenRefine reconciliation service for Nomisma. Endpoint for OpenRefine: [http://nomisma.org/apis/reconcile](http://nomisma.org/apis/reconcile). Documentation on their [website](https://numishare.blogspot.com/2017/10/nomisma-launches-openrefine.html)
+- [Perio.do](https://test.perio.do) - The OpenRefine reconciliation services is available in [GitHub](https://github.com/periodo/periodo-reconciler).
+- [Pleiades]() - OpenRefine reconciliation service for Pleiades. Endpoint for OpenRefine: [https://geocollider-sinatra.herokuapp.com/reconcile](https://geocollider-sinatra.herokuapp.com/reconcile). More information [here](http://geocollider-sinatra.herokuapp.com).
+- [GODOT](https://godot.date/home) - OpenRefine reconciliation service for GODOT. Endpoint for OpenRefine: [https://godot.date/api/openrefine/reconcile](https://godot.date/api/openrefine/reconcile).
 
 
 ## IIIF
