@@ -483,7 +483,8 @@ OS - OpenSource
 
 - [pySHACL](https://github.com/RDFLib/pySHACL) - a Python validator for SHACL.
 - [SHaclEX](https://github.com/weso/shaclex) - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
-- [RDFUnit](http://rdfunit.aksw.org/) -RDF testing suite. Include but not limited to SHACL.
+- [RDFUnit](http://rdfunit.aksw.org/) - RDF testing suite. Include but not limited to SHACL.
+- [dotNetRDF SHACL](http://langsamu.net/shacl) - SHACL procecssor that can check conformance and validate data graphs against shapes graphs.
 
 
 ## IIIF
