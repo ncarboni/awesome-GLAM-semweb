@@ -77,6 +77,7 @@ The list is public and contributions are welcome.
 	- [Alignment](#alignment)
 	- [Conversion](#conversion)
 	- [Visualisation](#visualisation)
+	- [Images](#images)
 
 <!-- /MarkdownTOC -->
 
@@ -194,9 +195,10 @@ The list is public and contributions are welcome.
 #### CIDOC-CRM Modelling examples and documentation
 
 - [Official Website modelling](http://www.cidoc-crm.org/functional-units) and [Best Practices](http://www.cidoc-crm.org/best_practices)
-- [Consortium for Open Research Data in the Humanities](https://docs.cordh.net)
-- [Swiss Art Research Infrastructure docs](https://docs.swissartresearch.net)
-- [Linked Art](https://linked.art)
+- [Reference Data Models](https://docs.swissartresearch.net/instruction/) - Ready-Made data patterns for describing Person, Artwork, Documents, Events and more.
+- [Consortium for Open Research Data in the Humanities](https://docs.cordh.net) - Basic shared pattern for interoperable CRM
+- [Linked Art](https://linked.art) - Art Museum Application Profile for CRM in JSON-LD.
+
 
 ### Gemeinsame Normdatei (GND)
 
@@ -530,4 +532,8 @@ OS - OpenSource
 ### Visualisation
 
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) Python tool for visualising RDF. Convert rdf to .dot and use Graphviz for constructing a visual representation.
+
+### Images
+
+- [ImageSnippets](http://www.imagesnippets.com/glam/) - Platform to links RDF descriptions to images
 
