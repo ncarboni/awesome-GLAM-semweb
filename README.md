@@ -67,6 +67,7 @@ The list is public and contributions are welcome.
 	- [IntelliJ](#intellij)
 - [Data Management](#data-management)
 	- [OpenRefine Reconciliation services](#openrefine-reconciliation-services)
+- [Data Validation](#data-validation)
 - [IIIF](#iiif)
 - [Misc](#misc)
 	- [Prefix](#prefix)
@@ -477,6 +478,12 @@ OS - OpenSource
 - [Perio.do](https://test.perio.do) - The OpenRefine reconciliation services is available in [GitHub](https://github.com/periodo/periodo-reconciler).
 - [Pleiades]() - OpenRefine reconciliation service for Pleiades. Endpoint for OpenRefine: [https://geocollider-sinatra.herokuapp.com/reconcile](https://geocollider-sinatra.herokuapp.com/reconcile). More information [here](http://geocollider-sinatra.herokuapp.com).
 - [GODOT](https://godot.date/home) - OpenRefine reconciliation service for GODOT. Endpoint for OpenRefine: [https://godot.date/api/openrefine/reconcile](https://godot.date/api/openrefine/reconcile).
+
+## Data Validation 
+
+- [pySHACL](https://github.com/RDFLib/pySHACL) - a Python validator for SHACL.
+- [SHaclEX](https://github.com/weso/shaclex) - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
+- [RDFUnit](http://rdfunit.aksw.org/) -RDF testing suite. Include but not limited to SHACL.
 
 
 ## IIIF
