@@ -485,7 +485,8 @@ OS - OpenSource
 - [SHaclEX](https://github.com/weso/shaclex) - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
 - [RDFUnit](http://rdfunit.aksw.org/) - RDF testing suite. Include but not limited to SHACL.
 - [dotNetRDF SHACL](http://langsamu.net/shacl) - SHACL procecssor that can check conformance and validate data graphs against shapes graphs.
-
+- [YASHE](http://www.weso.es/YASHE/) -  ShEx editor with examples
+- [Shex validator](http://shex.io/webapps/shex.js/doc/shex-simple.html) - Simple Online Validator for ShEx
 
 ## IIIF
 
