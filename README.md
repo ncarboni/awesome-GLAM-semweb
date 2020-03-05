@@ -1,4 +1,4 @@
-## Awesome GLAM semweb [![Awesome](https://awesome.re/badge.svg)](https://github.com/ncarboni/Awesome-GLAM-semweb)
+## awesome GLAM semweb [![Awesome](https://awesome.re/badge.svg)](https://github.com/ncarboni/Awesome-GLAM-semweb)
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.  
 
