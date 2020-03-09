@@ -398,11 +398,13 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 ## Knowledge Graph Management
 
 $ - Proprietary  
-OS - OpenSource  
+OS - OpenSource
+*f* - Free Version
 
 - [Researchspace](https://www.researchspace.org) - (OS)($) platform to to use, interact and build up entry point for RDF Stores. Specifically target to GLAM researchers and institutions.
 - [WissKI](http://wiss-ki.eu) - (OS) Drupal-based platform to interact and build entry point for RDF Stores.
-- [LinkedDataHun](https://atomgraph.com/products/linkeddatahub/) - (OS)($) collaborative data and information management for RDF data. 
+- [LinkedDataHub](https://atomgraph.com/products/linkeddatahub/) - (OS) collaborative data and information management for RDF data. 
+- [GraphDB by Ontotext](https://www.ontotext.com/products/graphdb/) - ($)(*f*) RDF Database for Knowledge Graphs. 
 
 
 ### Linked Data Platform (LDP)
