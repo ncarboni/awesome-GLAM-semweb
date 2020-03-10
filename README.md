@@ -495,6 +495,7 @@ OS - OpenSource
 ## IIIF
 
 - [International Image Interoperability Framework](https://iiif.io/)
+- [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif)
 
 ## Misc
 
