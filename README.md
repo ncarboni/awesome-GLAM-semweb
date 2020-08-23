@@ -339,7 +339,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ### China
 
-- [Chinese Iconography Thesaurus (CIT)](https://https://chineseiconography.org/)
+- [Chinese Iconography Thesaurus (CIT)](https://chineseiconography.org/)
 
 ### Where to find controlled vocabularies/thesauri 
 
