@@ -337,6 +337,10 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 - [Thesaurus Portale della Cultural Italiana (PICO)](http://www.culturaitalia.it/pico/thesaurus/4.3/thesaurus_4.3.0.skos.xml#http://culturaitalia.it/pico/thesaurus/4.1%23beni_materiali_della_tradizione_e_del_folklore)
 - [Soggettario Biblioteca Nazionale Centrale Firenze](http://thes.bncf.firenze.sbn.it/ricerca.php)
 
+### China
+
+- [Chinese Iconography Thesaurus (CIT)](https://chineseiconography.org/)
+
 ### Where to find controlled vocabularies/thesauri 
 
 - [Bartoc](https://bartoc.org)
@@ -496,6 +500,7 @@ OS - OpenSource
 ## IIIF
 
 - [International Image Interoperability Framework](https://iiif.io/)
+- [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif)
 
 ## Misc
 
