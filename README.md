@@ -401,7 +401,8 @@ $ - Proprietary
 OS - OpenSource  
 *f* - Free Version  
 
-- [Researchspace](https://www.researchspace.org) - (OS)($) platform to to use, interact and build up entry point for RDF Stores. Specifically target to GLAM researchers and institutions.
+- [Researchspace](https://www.researchspace.org) - (OS) platform for managing, interacting and building entry points (template, graph authoring) for RDF Stores. Specifically targeting GLAM researchers and institutions.
+- [Metaphacts](https://metaphacts.com) - (OS)($) platform for managing, interacting and building entry points (template, graph authoring) for RDF Stores.
 - [WissKI](http://wiss-ki.eu) - (OS) Drupal-based platform to interact and build entry point for RDF Stores.
 - [LinkedDataHub](https://atomgraph.com/products/linkeddatahub/) - (OS) collaborative data and information management for RDF data. 
 - [GraphDB by Ontotext](https://www.ontotext.com/products/graphdb/) - ($)(*f*) RDF Database for Knowledge Graphs. 
