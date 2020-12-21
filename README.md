@@ -167,6 +167,7 @@ The list is public and contributions are welcome.
 - [Documentation](http://www.cidoc-crm.org/versions-of-the-cidoc-crm): Official website of the CIDOC-CRM
 - [RDFS](http://www.cidoc-crm.org/versions-of-the-cidoc-crm) Official version of CIDOC-CRM available in RDF. *No direct link, you can use the latest version available in the page*
 - [OWL](http://www.cidoc-crm.org/versions-of-the-cidoc-crm) OWL version of CIDOC-CRM. *No direct link, use the latest version available in the page*.
+- [CIDOC-CRM Periodic Table](https://remogrillo.github.io/cidoc-crm_periodic_table/)  Visualize and search the CRM in a user-friendly interface. 
 
 #### CIDOC-CRM Official extensions
 
