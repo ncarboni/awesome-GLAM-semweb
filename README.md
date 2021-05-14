@@ -199,6 +199,7 @@ The list is public and contributions are welcome.
 - [Reference Data Models](https://docs.swissartresearch.net/instruction/) - Ready-Made data patterns for describing Person, Artwork, Documents, Events and more.
 - [Consortium for Open Research Data in the Humanities](https://docs.cordh.net) - Basic shared pattern for interoperable CRM
 - [Linked Art](https://linked.art) - Art Museum Application Profile for CRM in JSON-LD.
+- [DOPHEDA](https://chin-rcip.github.io/collections-model/) - Project of the Canadian Heritage Information Network to foster the development of LOD in heritage institutions, including a Data Model based on CIDOC CRM
 
 
 ### Gemeinsame Normdatei (GND)
