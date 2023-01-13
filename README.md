@@ -121,6 +121,10 @@ The list is public and contributions are welcome.
 - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
 - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
 
+### R2RML
+
+- [R2RML: RDB to RDF Mapping Language](https://www.w3.org/TR/r2rml/)
+
 ### RDFa
 
 - [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
@@ -301,9 +305,11 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ### Ontop
   
-  [Ontop](https://ontop-vkg.org) is an application developed by, among others, the University of Bolzano for creating a virtual RDF Graph on top of your current data source. Mappings can be easily created using [Protege](http://protege.stanford.edu/) and results are queryable using SPARQL 1.1. Moreover, it support reasoning ([OWL 2 QL](https://www.w3.org/TR/owl2-profiles/#OWL_2_QL)).
+  [Ontop](https://ontop-vkg.org) is an application developed by, among others, the University of Bolzano for creating a virtual RDF Graph on top of your current data source. Mappings can be easily created using [Protege](http://protege.stanford.edu/) and results are queryable using SPARQL 1.1. Moreover, it supports reasoning ([OWL 2 QL](https://www.w3.org/TR/owl2-profiles/#OWL_2_QL)).
   
-  
+### Ontopic Studio
+
+($) [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) is a mapping design application targeted at authoring large mappings without writing code. It is fully compliant with the [R2RML](#R2RML) standard.
 
 
 ## Vocabularies and KOS
