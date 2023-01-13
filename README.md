@@ -43,6 +43,7 @@ The list is public and contributions are welcome.
 	- [X3ML](#x3ml)
 	- [Karma](#karma)
 	- [Ontop](#ontop)
+	- [Ontopic Studio](#ontopic-studio)
 - [Vocabularies and KOS](#vocabularies-and-kos)
 	- [General](#general)
 	- [France](#france)
