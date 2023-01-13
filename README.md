@@ -301,7 +301,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ### Ontop
   
-  [Ontop](https://ontop.inf.unibz.it) is an application developed by the University of Bolzano for creating a virtual RDF Graph on top of your current data source. Mappings can be easily created using [Protege](http://protege.stanford.edu/) and results are queryable using SPARQL 1.0. Moreover, it support reasoning.
+  [Ontop](https://ontop-vkg.org) is an application developed by, among others, the University of Bolzano for creating a virtual RDF Graph on top of your current data source. Mappings can be easily created using [Protege](http://protege.stanford.edu/) and results are queryable using SPARQL 1.1. Moreover, it support reasoning ([OWL 2 QL](https://www.w3.org/TR/owl2-profiles/#OWL_2_QL)).
   
   
 
